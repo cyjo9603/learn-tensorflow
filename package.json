@@ -1,0 +1,12 @@
+{
+  "name": "learn-tensorflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cyjo9603/learn-tensorflow.git",
+  "author": "jpg21043 <jpg21043@linecorp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.1.0",
+    "typescript": "^4.9.3"
+  }
+}
